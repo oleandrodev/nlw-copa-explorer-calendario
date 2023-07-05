@@ -1,0 +1,9 @@
+@kayframes appear {
+  0% {
+    transform: 0;
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
